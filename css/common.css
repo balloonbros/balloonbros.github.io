@@ -7,6 +7,7 @@ html, body, header, footer, section, nav, h1, h2, ul, li, p {
 
 body {
   font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  color: #565656;
 }
 
 h1 {
@@ -32,6 +33,20 @@ a:hover {
   text-decoration: underline;
 }
 
+#social {
+  margin: 40px 0 0;
+}
+
+#social a {
+  color: #565656;
+  text-decoration: none;
+}
+
+#social a:hover {
+  color: #949494;
+  text-decoration: none;
+}
+
 footer {
-  margin: 50px 0;
+  margin: 20px 0;
 }
