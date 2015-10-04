@@ -39,6 +39,7 @@ a:hover {
 #social a {
   color: #565656;
   text-decoration: none;
+  margin: 0 5px;
 }
 
 #social a:hover {
